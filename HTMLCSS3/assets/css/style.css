@@ -1,0 +1,9 @@
+*{
+    text-align: center;
+}
+
+.input{
+    margin-bottom: 10px;
+    width: 200px;
+    height: 25px;
+}
